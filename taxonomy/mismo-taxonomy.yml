@@ -1,0 +1,78 @@
+generated: '2026-08-03'
+method: searched
+source:
+- https://www.mismo.org/standards-resources/residential-specifications/reference-model
+- https://www.mismo.org/standards-resources/mismo-product/mismo-version-3-6
+- https://www.mismo.org/standards-resources/residential-specifications/datasets
+type: Taxonomy
+summary:
+  note: >-
+    MISMO's own categorisation of what it publishes, captured as the body states it. The
+    Reference Model is the spine; the dataset specifications are profiles of it scoped to one
+    business process or one regulator's form.
+  reference_model_versions: 12
+  dataset_specifications: 16
+
+reference_model:
+  current: 3.6.2
+  status_of_3_6: Candidate Recommendation, May 2023
+  status_of_3_6_1: Candidate Recommendation, May 2025 — backwards compatible with 3.6
+  components:
+  - name: XML schema
+    note: the data and relationships supporting industry business processes
+  - name: OpenAPI YAML file set
+    note: >-
+      MISMO's own description of v3.6 states it ships "a corresponding YAML file set that
+      conforms to the OpenAPI specification"
+  - name: Logical Data Dictionary (LDD)
+    note: the business-centric view of the model
+  - name: Unique ID Matrix
+    note: for impact analysis and implementation acceleration
+  versions_published: ['3.6.2', '3.6.1', '3.6', '3.5', '3.4', '3.3.1', '3.3', '3.2', '3.1',
+    '3.0', '2', '1']
+
+api_layer:
+- name: MISMO API Toolkit
+  note: enhanced in v3.6 as part of the initiative to develop standards for consumer transactions
+- name: FIPS Code API
+  note: returns loan limits based on the ZIP code of the subject property address
+
+dataset_specifications:
+- Adverse Action Notice Dataset
+- BWIC Template and Mapping Specification
+- Closing Instructions
+- Federal Government Housing Agency Servicing Dataset
+- Industry Loan Application Dataset (iLAD) 2.0.1
+- Industry Loan Application Dataset (iLAD) 2.1.0
+- Industry Loan Application Dataset (iLAD) 2.2.0
+- Industry Loan Application Dataset (iLAD) 2.3.0
+- Industry Loan Application Dataset (iLAD) 2.4.0
+- IRS Form 4506-C & 4506-T
+- Mortgage Compliance Dataset (MCD)
+- Private Label RMBS Valuation
+- Property and Valuation Services Procurement Dataset Specification
+- VA Form 26-1880
+- VA Form 26-8937
+
+other_artifacts:
+- name: SMART Doc
+  note: the electronic document standard underpinning eMortgage and eNote work
+- name: Entity Relationship Model
+- name: Implementation Guides
+- name: BPM + Reference Model Toolkit
+- name: MISMO FRAME
+- name: e-Eligibility Exchange
+- name: Digital Mortgage Resource Center
+- name: Logical Data Model
+  versions: ['3.6', '3.5']
+
+commercial:
+  note: >-
+    MISMO maintains a commercial track alongside the residential one, governed by the
+    Commercial Standards Governance Committee.
+
+access:
+  posture: >-
+    Every artifact above is distributed under the MISMO licence regime. There is no public
+    GitHub organization and no anonymously fetchable specification URL, so none of it is
+    reachable by ordinary API discovery.

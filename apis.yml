@@ -1,0 +1,110 @@
+aid: mismo
+url: https://raw.githubusercontent.com/api-evangelist/mismo/refs/heads/main/apis.yml
+name: MISMO
+description: MISMO — the Mortgage Industry Standards Maintenance Organization — is the standards development
+  body for US real estate finance, founded in 1999 and a not-for-profit wholly owned subsidiary of the
+  Mortgage Bankers Association since 2004. Its Reference Model defines the data of a loan from application
+  through closing, servicing and the secondary market, and version 3.6 ships an XML schema, a Logical
+  Data Dictionary, a Unique ID Matrix and a YAML file set that conforms to the OpenAPI Specification,
+  alongside a MISMO API Toolkit and services such as a FIPS Code API. Around the Reference Model sit sixteen
+  dataset specifications — iLAD, the Mortgage Compliance Dataset, the IRS 4506-C, the VA forms, adverse
+  action, closing instructions — plus SMART Doc and the eMortgage and eNote work, and certification programmes
+  for RON, eClosing, eVault and SMART Doc systems. MISMO standards are accepted and deployed by every
+  type of entity involved in creating mortgages and are required by most regulators, housing agencies
+  and the GSEs. It governs in the open — fourteen bodies and their rosters are published — and distributes
+  behind a $3,500 annual membership and a licence agreement, which is the exact inverse of the specifications-as-code
+  posture CAMARA and NMFTA took.
+tags:
+- API Standards
+- Data Standard
+- Fannie Mae
+- Freddie Mac
+- Financial Services
+- GSE
+- Lending
+- MBA
+- MISMO
+- Mortgage
+- Real Estate
+- Real Estate Finance
+- Reference Model
+- SMART Doc
+- Standards
+- Standards Body
+- United States
+- XML
+kind: standard
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mismo.png
+access: 3rd-Party
+created: '2026-08-03'
+modified: '2026-08-03'
+position: Producing
+specificationVersion: '0.20'
+x-type: standards-body
+x-category: Specification
+x-host: Mortgage Bankers Association
+x-host-structure: Not-for-profit wholly owned subsidiary
+common:
+- type: Portal
+  url: https://www.mismo.org/
+- type: AboutUs
+  url: https://www.mismo.org/about-MISMO
+- type: Specification
+  url: https://www.mismo.org/standards-resources/residential-specifications/reference-model
+- type: Documentation
+  url: https://www.mismo.org/standards-resources/residential-specifications/datasets
+- type: Governance
+  url: https://www.mismo.org/about-MISMO/mismo-leadership
+- type: Participants
+  url: https://www.mismo.org/membership/member-directory
+- type: Membership
+  url: https://www.mismo.org/membership/become-a-mismo-member
+- type: License
+  url: https://www.mismo.org/standards-resources/additional-tools-and-resources/about-mismo-licenses/mismo-license-faqs
+- type: Contributing
+  url: https://www.mismo.org/get-involved/participate-in-a-mismo-workgroup
+- type: Calendar
+  url: https://www.mismo.org/quicklinks/workgroup-meeting-schedule
+- type: Certification
+  url: https://www.mismo.org/
+  name: RON, eClosing, eVault and SMART Doc system certifications
+- type: News
+  url: https://www.mismo.org/about-MISMO/news
+- type: Newsletter
+  url: https://www.mismo.org/about-MISMO/news
+  name: MISMO Matters
+- type: Contact
+  url: https://www.mismo.org/
+- type: Governance
+  url: governance/mismo-governance.yml
+- type: Taxonomy
+  url: taxonomy/mismo-taxonomy.yml
+- type: People
+  url: people/mismo-people.yml
+- type: Companies
+  url: companies/mismo-companies.yml
+- type: Leads
+  url: leads/mismo-new-company-leads.yml
+- type: Features
+  updated: '2026-08-03'
+  sources:
+  - https://www.mismo.org/about-MISMO
+  - https://www.mismo.org/about-MISMO/mismo-leadership
+  data:
+  - 'Host: Mortgage Bankers Association; MISMO founded 1999, MBA subsidiary since 2004'
+  - 'Current Reference Model: 3.6.2; 3.6 reached Candidate Recommendation May 2023'
+  - 'Reference Model versions published: 12'
+  - 'Dataset specifications: 16, including five iLAD versions'
+  - Reference Model ships an OpenAPI-conformant YAML file set
+  - 'Governance bodies: 14'
+  - 'Named people harvested: 89, of whom 74 carry an employer'
+  - 'Participating organizations: 52'
+  - 'Organizations already in the API Evangelist network: 19'
+  - 'Membership: $3,500 per year, includes distributor and end-user licences'
+  - 'Public GitHub organization: none'
+  - 'Anonymously fetchable specification URL: none'
+maintainers:
+- FN: Kin Lane
+  email: info@apievangelist.com
+  X: apievangelist
+  url: https://apievangelist.com

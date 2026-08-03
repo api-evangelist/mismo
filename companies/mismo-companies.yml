@@ -1,0 +1,681 @@
+generated: '2026-08-03'
+method: derived
+source: derived from mismo/people/mismo-people.yml
+type: Companies
+summary:
+  companies: 52
+  with_governance_seat: 52
+  single_participant: 43
+  top_by_participants:
+  - name: MISMO
+    participants: 7
+  - name: Fannie Mae
+    participants: 5
+  - name: MBA
+    participants: 4
+  - name: Actualize Consulting
+    participants: 3
+  - name: Freddie Mac
+    participants: 3
+  - name: FundingShield
+    participants: 2
+  - name: Rocket Mortgage
+    participants: 2
+  - name: Sagent
+    participants: 2
+  - name: United Wholesale Mortgage
+    participants: 2
+  - name: Absolute Home and Mortgage Automation Technologies
+    participants: 1
+  - name: Alpha7x
+    participants: 1
+  - name: Amerihome Mortgage Company
+    participants: 1
+  - name: and the
+    participants: 1
+  - name: Black Knight
+    participants: 1
+  - name: CBRE
+    participants: 1
+  in_network: 19
+  missing: 33
+  api_providers_in_network: 5
+  governance_seat_in_network: 19
+  matched: '2026-08-03'
+companies:
+- name: MISMO
+  key: mismo
+  participants: 7
+  governance_seats: 7
+  bodies:
+  - Board of Directors
+  - Business Executive Team
+  - Council of Chairs
+  - New Product Incubator
+  leadership_roles:
+  - Chair
+  - Council of Chairs
+  slug: mismo
+  in_network: true
+  is_api_provider: null
+  matched_by: name-slug
+- name: Fannie Mae
+  key: fanniemae
+  participants: 5
+  governance_seats: 5
+  bodies:
+  - Board of Directors
+  - New Product Incubator
+  - Residential Standards Governance Committee
+  leadership_roles: null
+  slug: fannie-mae
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: MBA
+  key: mba
+  participants: 4
+  governance_seats: 4
+  bodies:
+  - Board of Directors
+  - MISMO Officers
+  leadership_roles:
+  - MISMO Officers
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: mba
+- name: Actualize Consulting
+  key: actualizeconsulting
+  participants: 3
+  governance_seats: 3
+  bodies:
+  - Business Executive Team
+  - Residential Standards Governance Committee
+  leadership_roles:
+  - Chair
+  - Vice-Chair
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: actualize-consulting
+- name: Freddie Mac
+  key: freddiemac
+  participants: 3
+  governance_seats: 3
+  bodies:
+  - Board of Directors
+  - New Product Incubator
+  - Residential Standards Governance Committee
+  leadership_roles: null
+  slug: freddie-mac
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: FundingShield
+  key: fundingshield
+  participants: 2
+  governance_seats: 2
+  bodies:
+  - Board of Directors
+  - Residential Standards Governance Committee
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: fundingshield
+- name: Rocket Mortgage
+  key: rocketmortgage
+  participants: 2
+  governance_seats: 2
+  bodies:
+  - Board of Directors
+  - New Product Incubator
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: rocket-mortgage
+- name: Sagent
+  key: sagent
+  participants: 2
+  governance_seats: 2
+  bodies:
+  - Board of Directors
+  - Residential Standards Governance Committee
+  leadership_roles:
+  - Chair
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: sagent
+- name: United Wholesale Mortgage
+  key: unitedwholesalemortgage
+  participants: 2
+  governance_seats: 2
+  bodies:
+  - Board of Directors
+  - Residential Standards Governance Committee
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: united-wholesale-mortgage
+- name: Absolute Home and Mortgage Automation Technologies
+  key: absolutehomeandmortgageautomationtechnologies
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles:
+  - Chair
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: absolute-home-and-mortgage-automation-technologies
+- name: Alpha7x
+  key: alpha7x
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Residential Standards Governance Committee
+  leadership_roles:
+  - Vice-Chair
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: alpha7x
+- name: Amerihome Mortgage Company
+  key: amerihomemortgagecompany
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: amerihome-mortgage-company
+- name: and the
+  key: andthe
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Prioritization Committee
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: and-the
+- name: Black Knight
+  key: blackknight
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  leadership_roles: null
+  slug: black-knight
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: CBRE
+  key: cbre
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Commercial Standards Governance Committee
+  leadership_roles: null
+  slug: cbre
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Cenlar FSB
+  key: cenlarfsb
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: cenlar-fsb
+- name: Chase
+  key: chase
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Commercial Standards Governance Committee
+  leadership_roles: null
+  slug: chase
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Closergeist
+  key: closergeist
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: closergeist
+- name: CMG Financial
+  key: cmgfinancial
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Prioritization Committee
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: cmg-financial
+- name: Consigliera
+  key: consigliera
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: consigliera
+- name: CoreLogic
+  key: corelogic
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  leadership_roles: null
+  slug: corelogic
+  in_network: true
+  is_api_provider: true
+  matched_by: name-slug
+- name: Cotality
+  key: cotality
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: corelogic
+  in_network: true
+  is_api_provider: true
+  matched_by: derived-domain
+  matched_domain: cotality.com
+- name: Cushman Wakefield
+  key: cushmanwakefield
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: cushman-wakefield
+- name: DocMagic
+  key: docmagic
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: docmagic
+- name: Enact
+  key: enact
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: enact
+- name: Equifax
+  key: equifax
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Residential Standards Governance Committee
+  leadership_roles: null
+  slug: equifax
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Ernst & Young
+  key: ernstyoung
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  leadership_roles: null
+  slug: ernst-and-young
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Experian
+  key: experian
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  matched_domain: experian.com
+  suggested_slug: experian
+- name: Factual Data
+  key: factualdata
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: factual-data
+- name: Fairway Independent Mortgage
+  key: fairwayindependentmortgage
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: fairway-independent-mortgage
+- name: First American
+  key: firstamerican
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: first-american-financial
+  in_network: true
+  is_api_provider: false
+  matched_by: slug-prefix
+- name: FirstStep Software Systems
+  key: firststepsoftwaresystems
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: firststep-software-systems
+- name: Guild Mortgage
+  key: guildmortgage
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: guild-mortgage
+- name: ICE
+  key: ice
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - MISMO Officers
+  leadership_roles:
+  - Board Chairman of MISMO
+  slug: ice
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: ICE Mortgage Technology
+  key: icemortgagetechnology
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles:
+  - Chair
+  slug: black-knight
+  in_network: true
+  is_api_provider: false
+  matched_by: derived-domain
+  matched_domain: icemortgagetechnology.com
+- name: JPMorgan Chase
+  key: jpmorganchase
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: jp-morgan-chase
+  in_network: true
+  is_api_provider: false
+  matched_by: derived-domain
+  matched_domain: jpmorganchase.com
+- name: Magnolia Technologies
+  key: magnoliatechnologies
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: magnolia-technologies
+- name: MGIC
+  key: mgic
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Residential Standards Governance Committee
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: mgic
+- name: Mortgage Cadence
+  key: mortgagecadence
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: mortgage-cadence
+- name: nCino
+  key: ncino
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Residential Standards Governance Committee
+  leadership_roles: null
+  slug: sandbox-banking
+  in_network: true
+  is_api_provider: true
+  matched_by: derived-domain
+  matched_domain: ncino.com
+- name: Pennymac
+  key: pennymac
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles:
+  - Vice-Chair
+  slug: pennymac-financial-services
+  in_network: true
+  is_api_provider: false
+  matched_by: derived-domain
+  matched_domain: pennymac.com
+- name: PhoenixTeam
+  key: phoenixteam
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Information Management Architecture Workgroup
+  leadership_roles:
+  - Chairs
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: phoenixteam
+- name: PrimeLending
+  key: primelending
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: primelending
+- name: PRMG
+  key: prmg
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: prmg
+- name: SigniaDocs/Evolve Mortgage Services
+  key: signiadocsevolvemortgageservices
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: signiadocs-evolve-mortgage-services
+- name: Stewart
+  key: stewart
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Residential Standards Governance Committee
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: stewart
+- name: Supreme Lending
+  key: supremelending
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: supreme-lending
+- name: USAA
+  key: usaa
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  leadership_roles: null
+  slug: usaa
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Viant Eye
+  key: vianteye
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Residential Standards Governance Committee
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: viant-eye
+- name: Walker and Dunlop
+  key: walkeranddunlop
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: null
+  in_network: false
+  is_api_provider: null
+  matched_by: null
+  suggested_slug: walker-and-dunlop
+- name: Wave2.ai
+  key: wave2ai
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  leadership_roles: null
+  slug: wave-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: fuzzy
+- name: Xpanse
+  key: xpanse
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Nominating Committee
+  leadership_roles: null
+  slug: expanse
+  in_network: true
+  is_api_provider: false
+  matched_by: fuzzy

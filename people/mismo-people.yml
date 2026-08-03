@@ -1,0 +1,788 @@
+generated: '2026-08-03'
+method: searched
+source:
+- https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+- https://www.mismo.org/about-MISMO/mismo-leadership/mismo-officers
+- https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+- https://www.mismo.org/about-MISMO/mismo-leadership/commercial-standards-governance-committee
+- https://www.mismo.org/about-MISMO/mismo-leadership/council-of-chairs
+- https://www.mismo.org/about-MISMO/mismo-leadership/budget-and-finance-committee
+- https://www.mismo.org/about-MISMO/mismo-leadership/nominating-committee
+- https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee
+- https://www.mismo.org/about-MISMO/mismo-leadership/education-council
+- https://www.mismo.org/about-MISMO/mismo-leadership/revenue-committee
+- https://www.mismo.org/about-MISMO/mismo-leadership/architecture-workgroup
+- https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/business-executive-team
+- https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/mismo-senior-advisors
+- https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+type: People
+summary:
+  people: 89
+  with_org: 73
+  with_github_id: 0
+  in_governance_bodies: 89
+  bodies:
+    Council of Chairs: 6
+    Board of Directors: 28
+    Residential Standards Governance Committee: 19
+    Business Executive Team: 2
+    Prioritization Committee: 2
+    New Product Incubator: 17
+    Commercial Standards Governance Committee: 4
+    MISMO Officers: 9
+    Information Management Architecture Workgroup: 1
+    Nominating Committee: 1
+people:
+- name: Kellie Stoll, MISMO
+  org: null
+  github_id: null
+  role: Council of Chairs
+  title: null
+  body: Council of Chairs
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/council-of-chairs
+- name: Matt VanFossen
+  org: Absolute Home and Mortgage Automation Technologies
+  github_id: null
+  role: Chair
+  title: CEO
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/revenue-committee
+- name: Geran Combs
+  org: Actualize Consulting
+  github_id: null
+  role: Vice-Chair
+  title: Managing Director
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+  - https://www.mismo.org/about-MISMO/mismo-leadership/council-of-chairs
+- name: Mark Kleingers
+  org: Actualize Consulting
+  github_id: null
+  role: Ex-Officio
+  title: null
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+  - https://www.mismo.org/about-MISMO/mismo-leadership/architecture-workgroup
+- name: Matt Seu
+  org: Actualize Consulting
+  github_id: null
+  role: Chair
+  title: Chair of New Product Incubator
+  body: Business Executive Team
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/business-executive-team
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Lynn Calahan
+  org: Alpha7x
+  github_id: null
+  role: Vice-Chair
+  title: Senior Product Director
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+  - https://www.mismo.org/about-MISMO/mismo-leadership/council-of-chairs
+- name: Greg McElroy
+  org: Amerihome Mortgage Company
+  github_id: null
+  role: null
+  title: Managing Director, COO
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee
+- name: Senior Advisors
+  org: and the
+  github_id: null
+  role: Business Executive Team
+  title: null
+  body: Prioritization Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee
+- name: Randy Poirier
+  org: Black Knight
+  github_id: null
+  role: null
+  title: Vice President Data Strategy
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Peter Bui
+  org: CBRE
+  github_id: null
+  role: null
+  title: null
+  body: Commercial Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/commercial-standards-governance-committee
+- name: Leslie Peeler
+  org: Cenlar FSB
+  github_id: null
+  role: null
+  title: EVP & COO
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee
+- name: Jason Barrett
+  org: Chase
+  github_id: null
+  role: null
+  title: null
+  body: Commercial Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/commercial-standards-governance-committee
+- name: Steve Acker
+  org: Closergeist
+  github_id: null
+  role: null
+  title: Owner
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Courtney Thompson
+  org: CMG Financial
+  github_id: null
+  role: null
+  title: EVP Servicing
+  body: Prioritization Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee
+- name: Courtney Thompson
+  org: Consigliera
+  github_id: null
+  role: null
+  title: Founder and CEO
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+- name: Rob Poulton
+  org: CoreLogic
+  github_id: null
+  role: null
+  title: Senior Product Manager
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Jay Kingsley
+  org: Cotality
+  github_id: null
+  role: null
+  title: President
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/budget-and-finance-committee
+- name: Bryan Doyle
+  org: Cushman Wakefield
+  github_id: null
+  role: null
+  title: COO, Americas Capital Markets
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/budget-and-finance-committee
+- name: Michael Morford
+  org: DocMagic
+  github_id: null
+  role: null
+  title: Director of Product Development
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Neenu Kainth
+  org: Enact
+  github_id: null
+  role: null
+  title: SVP and Chief Customer Experience Officer
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/nominating-committee
+- name: Wendy Hannah-Olson
+  org: Equifax
+  github_id: null
+  role: null
+  title: null
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+- name: Mick Smothers
+  org: Ernst & Young
+  github_id: null
+  role: null
+  title: Principal Architect Banking
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Michele Bodda
+  org: Experian
+  github_id: null
+  role: null
+  title: President, Mortgage and Employer Services
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+- name: Shawn Jobe
+  org: Factual Data
+  github_id: null
+  role: null
+  title: Director Software Development
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Teri Pansing
+  org: Fairway Independent Mortgage
+  github_id: null
+  role: null
+  title: Senior Vice President Corporate Closing
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee
+- name: Arindam Gupta
+  org: Fannie Mae
+  github_id: null
+  role: null
+  title: Principal Architect, Digital Products
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Brian Hunt
+  org: Fannie Mae
+  github_id: null
+  role: Ex-Officio Members
+  title: Senior Director, Multifamily Technology Management
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee
+- name: Jeff Burgess
+  org: Fannie Mae
+  github_id: null
+  role: null
+  title: Director Product Management
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Lisa Dorsey
+  org: Fannie Mae
+  github_id: null
+  role: null
+  title: Vice President, Data Governance
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/budget-and-finance-committee
+- name: Sandro Barchitta
+  org: Fannie Mae
+  github_id: null
+  role: null
+  title: null
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+- name: Todd McGowan
+  org: First American
+  github_id: null
+  role: null
+  title: President Lender Division
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+- name: William Klumper
+  org: FirstStep Software Systems
+  github_id: null
+  role: null
+  title: Owner
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Aravind "Jag" Jagannathan
+  org: Freddie Mac
+  github_id: null
+  role: null
+  title: Vice President and Chief Data Officer Single-Family Strategic Delivery, Data, Operations, and
+    Technology
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee
+- name: Colleen Flaxington
+  org: Freddie Mac
+  github_id: null
+  role: Ex-Officio
+  title: null
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+- name: David Barkley
+  org: Freddie Mac
+  github_id: null
+  role: null
+  title: Director - Business Initiative
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Ike Suri
+  org: FundingShield
+  github_id: null
+  role: null
+  title: Chairman and CEO
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/nominating-committee
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee
+- name: Charlie Epperson
+  org: FundingShield
+  github_id: null
+  role: null
+  title: Chair of Education Council
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/business-executive-team
+- name: David Neylan
+  org: Guild Mortgage
+  github_id: null
+  role: null
+  title: President & COO
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/revenue-committee
+- name: Timothy J. Bowler
+  org: ICE
+  github_id: null
+  role: Board Chairman of MISMO
+  title: null
+  body: MISMO Officers
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/mismo-officers
+- name: Timothy J. Bowler
+  org: ICE Mortgage Technology
+  github_id: null
+  role: Chair
+  title: Chief Innovation Officer, Fixed Income and Data Services
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/nominating-committee
+- name: Harry Gardner
+  org: null
+  github_id: null
+  role: null
+  title: Director of Digital Systems, Ice Mortgage Technologies
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Shawn Jobe
+  org: null
+  github_id: null
+  role: null
+  title: Credit Interlink
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+- name: Suzanne Garwood
+  org: JPMorgan Chase
+  github_id: null
+  role: null
+  title: Executive Director and Associate General Counsel
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/budget-and-finance-committee
+- name: Rachael Sokolowski
+  org: Magnolia Technologies
+  github_id: null
+  role: null
+  title: President
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Alexandra Brinton
+  org: MBA
+  github_id: null
+  role: MISMO Officers
+  title: Controller
+  body: MISMO Officers
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/mismo-officers
+- name: Jonathan Kearns
+  org: MBA
+  github_id: null
+  role: MISMO Officers
+  title: Vice President of Technology
+  body: MISMO Officers
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/mismo-officers
+- name: Michael Briggs
+  org: MBA
+  github_id: null
+  role: MISMO Officers
+  title: General Counsel
+  body: MISMO Officers
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/mismo-officers
+- name: Peter Grace
+  org: MBA
+  github_id: null
+  role: null
+  title: Chief Administrative Office, Office of the CAO
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/budget-and-finance-committee
+- name: Leslie Bensen
+  org: MGIC
+  github_id: null
+  role: null
+  title: Director - Partner Solutions
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Brian Vieaux
+  org: MISMO
+  github_id: null
+  role: Ex-Officio Members
+  title: President
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/mismo-officers
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/business-executive-team
+- name: Chris Trujillo
+  org: MISMO
+  github_id: null
+  role: null
+  title: Architect
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Jonathan Kearns
+  org: MISMO
+  github_id: null
+  role: Chair
+  title: null
+  body: Business Executive Team
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/business-executive-team
+- name: Erin Bittenbender
+  org: MISMO
+  github_id: null
+  role: Council of Chairs
+  title: null
+  body: Council of Chairs
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/council-of-chairs
+- name: Kathryn Williams
+  org: MISMO
+  github_id: null
+  role: Council of Chairs
+  title: null
+  body: Council of Chairs
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/council-of-chairs
+- name: Leeann Walker
+  org: MISMO
+  github_id: null
+  role: Council of Chairs
+  title: null
+  body: Council of Chairs
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/council-of-chairs
+- name: Meghan Tidgewell
+  org: MISMO
+  github_id: null
+  role: Council of Chairs
+  title: null
+  body: Council of Chairs
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/council-of-chairs
+- name: Jim Rosen
+  org: Mortgage Cadence
+  github_id: null
+  role: null
+  title: Product Manager
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Jay Arneja
+  org: nCino
+  github_id: null
+  role: null
+  title: Chair of Council of Chairs
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/business-executive-team
+- name: Mike Hogan
+  org: Pennymac
+  github_id: null
+  role: Vice-Chair
+  title: Chief Information Officer
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/mismo-officers
+- name: Erin Bittenbender
+  org: PhoenixTeam
+  github_id: null
+  role: Chairs
+  title: null
+  body: Information Management Architecture Workgroup
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/architecture-workgroup
+- name: Rusty Emory
+  org: PrimeLending
+  github_id: null
+  role: Ex-Officio Members
+  title: Vice President Manager Investor Delivery
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/business-executive-team
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Kevin Peranio
+  org: PRMG
+  github_id: null
+  role: null
+  title: Chief Lending Officer
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/nominating-committee
+  - https://www.mismo.org/about-MISMO/mismo-leadership/revenue-committee
+- name: Brian Stucky
+  org: Rocket Mortgage
+  github_id: null
+  role: null
+  title: Senior Enterprise Architect
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Patrick Hartford
+  org: Rocket Mortgage
+  github_id: null
+  role: null
+  title: Vice President, Architecture and Engineering
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee
+  - https://www.mismo.org/about-MISMO/mismo-leadership/revenue-committee
+- name: Matt Tully
+  org: Sagent
+  github_id: null
+  role: Chair
+  title: CMB, Chief of Staff
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee
+- name: Trey Barnes
+  org: Sagent
+  github_id: null
+  role: null
+  title: null
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+- name: Charles Epperson
+  org: SigniaDocs/Evolve Mortgage Services
+  github_id: null
+  role: null
+  title: Chief Technology Officer
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Marvin Stone
+  org: Stewart
+  github_id: null
+  role: null
+  title: null
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+- name: Tim Elkins
+  org: Supreme Lending
+  github_id: null
+  role: null
+  title: Chief Strategic Officer
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee
+- name: Cliff Dabrowski
+  org: United Wholesale Mortgage
+  github_id: null
+  role: null
+  title: null
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+- name: Giuseppe “Joe” Lucido
+  org: United Wholesale Mortgage
+  github_id: null
+  role: null
+  title: Senior Vice President, Operations
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/budget-and-finance-committee
+- name: Elizabeth Smith
+  org: USAA
+  github_id: null
+  role: null
+  title: Technical Architect
+  body: New Product Incubator
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Chris Trujillo
+  org: Viant Eye
+  github_id: null
+  role: Ex-Officio
+  title: null
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+  - https://www.mismo.org/about-MISMO/mismo-leadership/architecture-workgroup
+- name: Aaron Perlis
+  org: Walker and Dunlop
+  github_id: null
+  role: null
+  title: Executive Vice President & Chief Information Officer
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee
+- name: Kiran Sahota
+  org: Wave2.ai
+  github_id: null
+  role: null
+  title: Founder
+  body: Board of Directors
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+- name: Kiran Sahota
+  org: Xpanse
+  github_id: null
+  role: null
+  title: EVP Technology
+  body: Nominating Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/nominating-committee
+- name: Angie Dodson
+  org: null
+  github_id: null
+  role: null
+  title: null
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+- name: Brian Hunt
+  org: null
+  github_id: null
+  role: Chair
+  title: Chair of Commercial Governance Committee
+  body: Commercial Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/commercial-standards-governance-committee
+  - https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/business-executive-team
+- name: Brian Pannell
+  org: null
+  github_id: null
+  role: null
+  title: null
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+- name: Brian Stucky
+  org: null
+  github_id: null
+  role: null
+  title: null
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+- name: Devin Caster
+  org: null
+  github_id: null
+  role: null
+  title: null
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+- name: General Counsel and Secretary
+  org: null
+  github_id: null
+  role: MISMO Officers
+  title: null
+  body: MISMO Officers
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/mismo-officers
+- name: Meghan Tidgewell
+  org: null
+  github_id: null
+  role: Council of Chairs
+  title: null
+  body: Council of Chairs
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/council-of-chairs
+- name: MISMO Bylaws
+  org: null
+  github_id: null
+  role: MISMO Officers
+  title: null
+  body: MISMO Officers
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/mismo-officers
+- name: Pam Forrester
+  org: null
+  github_id: null
+  role: null
+  title: null
+  body: Residential Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+- name: Peggy Smith
+  org: null
+  github_id: null
+  role: Vice Chair
+  title: null
+  body: Commercial Standards Governance Committee
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/commercial-standards-governance-committee
+- name: President of MISMO
+  org: null
+  github_id: null
+  role: MISMO Officers
+  title: null
+  body: MISMO Officers
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/mismo-officers
+- name: Treasurer of MISMO
+  org: null
+  github_id: null
+  role: MISMO Officers
+  title: null
+  body: MISMO Officers
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/mismo-officers
+- name: Vice President of MISMO
+  org: null
+  github_id: null
+  role: MISMO Officers
+  title: null
+  body: MISMO Officers
+  sources:
+  - https://www.mismo.org/about-MISMO/mismo-leadership/mismo-officers

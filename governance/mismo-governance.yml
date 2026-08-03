@@ -1,0 +1,137 @@
+generated: '2026-08-03'
+method: searched
+source:
+- https://www.mismo.org/about-MISMO
+- https://www.mismo.org/about-MISMO/mismo-leadership
+- https://www.mismo.org/standards-resources/additional-tools-and-resources/about-mismo-licenses/mismo-license-faqs
+- https://www.mismo.org/membership/become-a-mismo-member
+type: Governance
+organization:
+  legal_name: Mortgage Industry Standards Maintenance Organization, Inc.
+  founded: 1999
+  parent: Mortgage Bankers Association (MBA)
+  relationship: not-for-profit, wholly owned subsidiary of the MBA since 2004
+  address: 1919 M Street NW, 5th Floor, Washington, DC 20036
+  nature: >-
+    Standards development organization for the US mortgage and real estate finance industry.
+    Standards are voluntary consensus standards, developed in an open process, and are required
+    in practice by most regulators, housing agencies and the GSEs.
+
+bodies:
+- name: Board of Directors
+  type: board
+  members_recorded: 28
+  url: https://www.mismo.org/about-MISMO/mismo-leadership/board-of-directors
+- name: MISMO Officers
+  type: officers
+  members_recorded: 9
+  url: https://www.mismo.org/about-MISMO/mismo-leadership/mismo-officers
+- name: Residential Standards Governance Committee
+  type: governance committee
+  members_recorded: 19
+  composition: 18 representatives elected from MISMO membership, plus ex-officio
+  remit: >-
+    Governs the processes for developing and maintaining MISMO standards on the residential
+    side. Meets the second Tuesday monthly plus at the Summits; members vote electronically
+    and are expected to advocate for industry adoption.
+  url: https://www.mismo.org/about-MISMO/mismo-leadership/residential-standards-governance-committee
+- name: Commercial Standards Governance Committee
+  type: governance committee
+  members_recorded: 4
+  url: https://www.mismo.org/about-MISMO/mismo-leadership/commercial-standards-governance-committee
+- name: Council of Chairs
+  type: council
+  members_recorded: 6
+  remit: Convenes the chairs of the workgroups and communities of practice.
+  url: https://www.mismo.org/about-MISMO/mismo-leadership/council-of-chairs
+- name: Prioritization Committee
+  type: committee
+  members_recorded: 2
+  remit: Guidance on organizational priorities and key initiatives.
+  url: https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee
+- name: Business Executive Team
+  type: committee
+  members_recorded: 2
+  remit: Reports into the Prioritization Committee; seats the chairs of the other bodies.
+  url: https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/business-executive-team
+- name: New Product Incubator
+  type: committee
+  members_recorded: 17
+  url: https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/new-product-incubator
+- name: Nominating Committee
+  type: committee
+  members_recorded: 1
+  url: https://www.mismo.org/about-MISMO/mismo-leadership/nominating-committee
+- name: Information Management Architecture Workgroup
+  type: workgroup
+  members_recorded: 1
+  url: https://www.mismo.org/about-MISMO/mismo-leadership/architecture-workgroup
+- name: Budget and Finance Committee
+  type: committee
+  members_recorded: 0
+  url: https://www.mismo.org/about-MISMO/mismo-leadership/budget-and-finance-committee
+- name: Revenue Committee
+  type: committee
+  members_recorded: 0
+  url: https://www.mismo.org/about-MISMO/mismo-leadership/revenue-committee
+- name: Education Council
+  type: council
+  members_recorded: 0
+  note: page published but no roster extractable
+  url: https://www.mismo.org/about-MISMO/mismo-leadership/education-council
+- name: MISMO Senior Advisors Forum
+  type: forum
+  members_recorded: 0
+  note: page published but no roster extractable
+  url: https://www.mismo.org/about-MISMO/mismo-leadership/prioritization-committee/mismo-senior-advisors
+
+process:
+  model: volunteer workgroups chaired by industry contributors
+  note: >-
+    Standards activity is conducted by mortgage industry contributors who chair workgroups,
+    author the business and technical documentation, and contribute expertise. Communities of
+    Practice sit alongside the development workgroups; an Artificial Intelligence Community of
+    Practice was launched in 2024.
+  participate: https://www.mismo.org/get-involved/participate-in-a-mismo-workgroup
+  schedule: https://www.mismo.org/quicklinks/workgroup-meeting-schedule
+
+licensing:
+  posture: members-only, licensed
+  membership_fee_usd: 3500
+  membership_period: annual
+  member_benefit: distributor licence and end-user licence included with membership
+  non_member: >-
+    Downloading may be free where the organization will not build technology on the standards,
+    but any organization that downloads them or develops technology based on them is required
+    to hold a licence. Licence fees may apply for non-members.
+  fee_waiver: >-
+    Available on application for lenders originating under $500 million or fewer than 1,000
+    loans annually, and for vendors with fewer than 10 employees.
+  ipr_policy: 2018 MISMO Intellectual Property Rights Policy
+  source: https://www.mismo.org/standards-resources/additional-tools-and-resources/about-mismo-licenses/mismo-license-faqs
+
+certification:
+  technology:
+  - Remote Online Notarization (RON) Certification
+  - eClosing System Certification
+  - eVault System Certification
+  - SMART Doc Validation Rules Certification
+  professional:
+  - MISMO Certified Consultants
+  note: >-
+    MISMO publishes lists of certified eClosing systems, eVault systems and SMART Doc systems —
+    a conformance layer most data standards bodies do not operate.
+
+findings:
+- id: governed-in-the-open-distributed-behind-a-wall
+  observation: >-
+    MISMO publishes its governance in full — 14 bodies, 89 named people with employers — while
+    the standards those bodies produce sit behind a $3,500 annual membership and a licence
+    agreement. That is the inverse of CAMARA and NMFTA, which publish the specification openly
+    and the people barely at all.
+- id: openapi-inside-the-wall
+  observation: >-
+    The v3.6 Reference Model includes a YAML file set conforming to the OpenAPI Specification,
+    plus a MISMO API Toolkit and concrete services such as a FIPS Code API. The largest data
+    standard in US mortgage has an HTTP-contract expression that is effectively invisible to
+    API discovery because it is not reachable without a licence.

@@ -1,0 +1,246 @@
+generated: '2026-08-03'
+method: derived
+source: derived from mismo/companies/mismo-companies.yml
+type: Leads
+summary:
+  leads: 33
+  min_participants: 1
+  with_governance_seat: 33
+leads:
+- name: MBA
+  suggested_slug: mba
+  participants: 4
+  governance_seats: 4
+  bodies:
+  - Board of Directors
+  - MISMO Officers
+  source_standard: mismo
+- name: Actualize Consulting
+  suggested_slug: actualize-consulting
+  participants: 3
+  governance_seats: 3
+  bodies:
+  - Business Executive Team
+  - Residential Standards Governance Committee
+  source_standard: mismo
+- name: FundingShield
+  suggested_slug: fundingshield
+  participants: 2
+  governance_seats: 2
+  bodies:
+  - Board of Directors
+  - Residential Standards Governance Committee
+  source_standard: mismo
+- name: Rocket Mortgage
+  suggested_slug: rocket-mortgage
+  participants: 2
+  governance_seats: 2
+  bodies:
+  - Board of Directors
+  - New Product Incubator
+  source_standard: mismo
+- name: Sagent
+  suggested_slug: sagent
+  participants: 2
+  governance_seats: 2
+  bodies:
+  - Board of Directors
+  - Residential Standards Governance Committee
+  source_standard: mismo
+- name: United Wholesale Mortgage
+  suggested_slug: united-wholesale-mortgage
+  participants: 2
+  governance_seats: 2
+  bodies:
+  - Board of Directors
+  - Residential Standards Governance Committee
+  source_standard: mismo
+- name: Absolute Home and Mortgage Automation Technologies
+  suggested_slug: absolute-home-and-mortgage-automation-technologies
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  source_standard: mismo
+- name: Alpha7x
+  suggested_slug: alpha7x
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Residential Standards Governance Committee
+  source_standard: mismo
+- name: Amerihome Mortgage Company
+  suggested_slug: amerihome-mortgage-company
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  source_standard: mismo
+- name: and the
+  suggested_slug: and-the
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Prioritization Committee
+  source_standard: mismo
+- name: Cenlar FSB
+  suggested_slug: cenlar-fsb
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  source_standard: mismo
+- name: Closergeist
+  suggested_slug: closergeist
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  source_standard: mismo
+- name: CMG Financial
+  suggested_slug: cmg-financial
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Prioritization Committee
+  source_standard: mismo
+- name: Consigliera
+  suggested_slug: consigliera
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  source_standard: mismo
+- name: Cushman Wakefield
+  suggested_slug: cushman-wakefield
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  source_standard: mismo
+- name: DocMagic
+  suggested_slug: docmagic
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  source_standard: mismo
+- name: Enact
+  suggested_slug: enact
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  source_standard: mismo
+- name: Experian
+  suggested_slug: experian
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  source_standard: mismo
+- name: Factual Data
+  suggested_slug: factual-data
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  source_standard: mismo
+- name: Fairway Independent Mortgage
+  suggested_slug: fairway-independent-mortgage
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  source_standard: mismo
+- name: FirstStep Software Systems
+  suggested_slug: firststep-software-systems
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  source_standard: mismo
+- name: Guild Mortgage
+  suggested_slug: guild-mortgage
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  source_standard: mismo
+- name: Magnolia Technologies
+  suggested_slug: magnolia-technologies
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  source_standard: mismo
+- name: MGIC
+  suggested_slug: mgic
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Residential Standards Governance Committee
+  source_standard: mismo
+- name: Mortgage Cadence
+  suggested_slug: mortgage-cadence
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  source_standard: mismo
+- name: PhoenixTeam
+  suggested_slug: phoenixteam
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Information Management Architecture Workgroup
+  source_standard: mismo
+- name: PrimeLending
+  suggested_slug: primelending
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  source_standard: mismo
+- name: PRMG
+  suggested_slug: prmg
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  source_standard: mismo
+- name: SigniaDocs/Evolve Mortgage Services
+  suggested_slug: signiadocs-evolve-mortgage-services
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - New Product Incubator
+  source_standard: mismo
+- name: Stewart
+  suggested_slug: stewart
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Residential Standards Governance Committee
+  source_standard: mismo
+- name: Supreme Lending
+  suggested_slug: supreme-lending
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  source_standard: mismo
+- name: Viant Eye
+  suggested_slug: viant-eye
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Residential Standards Governance Committee
+  source_standard: mismo
+- name: Walker and Dunlop
+  suggested_slug: walker-and-dunlop
+  participants: 1
+  governance_seats: 1
+  bodies:
+  - Board of Directors
+  source_standard: mismo
