@@ -19,13 +19,13 @@ tags:
 - Data Standard
 - Fannie Mae
 - Freddie Mac
-- Financial-Services
-- GSE
+- Financial Services
+- Government-Sponsored Enterprise
 - Lending
 - MBA
 - MISMO
 - Mortgage
-- Real-Estate
+- Real Estate
 - Real Estate Finance
 - Reference Model
 - SMART Doc
@@ -52,6 +52,8 @@ tags_raw:
 - Standards Body
 - United States
 - XML
+- Financial-Services
+- Real-Estate
 kind: standard
 deliveryModel:
   model: unknown
